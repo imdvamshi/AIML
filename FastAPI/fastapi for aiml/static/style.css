@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    height: auto;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;   
+}
+
+input {
+    margin-bottom: 10px;
+    width : 300px;
+    height:30px;
+}
+
+label {
+    color:rgb(0, 0, 0);
+}
+
+button {
+    width: 300px;
+    height: 22px;
+    margin-top: 10px;
+}
